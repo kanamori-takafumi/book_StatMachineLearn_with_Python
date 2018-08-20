@@ -22,31 +22,31 @@ ch14densityratio.ipynb
 chAppendix.ipynb  
 
 
-- 本書で作成する pythonコード
-common/DensityRatio.py
-common/bloodtype.py
-common/contourFittedClass.py
-common/mlbench.py
-common/parity.py
-common/statmodelEMalg.py
+- 本書で作成する pythonコード  
+common/DensityRatio.py  
+common/bloodtype.py  
+common/contourFittedClass.py  
+common/mlbench.py  
+common/parity.py  
+common/statmodelEMalg.py  
 
 
-- 本書で利用するデータファイル
-data/Davis.csv
-data/UN.csv
-data/morley.csv
-data/optdigits_test.csv
-data/optdigits_train.csv
-data/soldat.csv
-data/stagec.csv
-data/voting.csv
-data/barbara512.bmp
-data/boat.png
-data/goldhill.png
-data/lenna.png
-data/pepper512.bmp
-data/pepper512.bmp
-data/child.jpg
+- 本書で利用するデータファイル  
+data/Davis.csv  
+data/UN.csv  
+data/morley.csv  
+data/optdigits_test.csv  
+data/optdigits_train.csv  
+data/soldat.csv  
+data/stagec.csv  
+data/voting.csv  
+data/barbara512.bmp  
+data/boat.png  
+data/goldhill.png  
+data/lenna.png  
+data/pepper512.bmp  
+data/pepper512.bmp  
+data/child.jpg  
 
 解説は本書籍をご覧ください．
 
