@@ -6,7 +6,9 @@
 
 ファイル：
 - jupyter-notebook で利用する各章のコード
+
 -- ch01intro.ipynb
+
 -- ch02prob.ipynb
 -- ch04eval.ipynb
 -- ch05dataDescription.ipynb
