@@ -77,6 +77,7 @@ jupyter-notebook用のコード(ch01intro.ipynbなど)をダブルクリック�
 
 本リポジトリのソースコードは[MITライセンス](http://www.opensource.org/licenses/MIT)です。
 商用・非商用問わず、自由にご利用ください。
+だたしdataディレクトリのファイルはそれぞれのライセンスに従ってご利用下さい。
 
 
 ## 正誤表
