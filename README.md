@@ -5,23 +5,21 @@
 ## ファイル構成
 
 ファイル：
-- jupyter-notebook で利用する各章のコード
-
--- ch01intro.ipynb
-
--- ch02prob.ipynb
--- ch04eval.ipynb
--- ch05dataDescription.ipynb
--- ch06statmodel.ipynb
--- ch07test.ipynb
--- ch08regression.ipynb
--- ch09clustering.ipynb
--- ch10svm.ipynb
--- ch11sparse.ipynb
--- ch12ensemble.ipynb
--- ch13gaussprocess.ipynb
--- ch14densityratio.ipynb
--- chAppendix.ipynb
+- jupyter-notebook で利用する各章のコード  
+ch01intro.ipynb  
+ch02prob.ipynb  
+ch04eval.ipynb  
+ch05dataDescription.ipynb  
+ch06statmodel.ipynb  
+ch07test.ipynb  
+ch08regression.ipynb  
+ch09clustering.ipynb  
+ch10svm.ipynb  
+ch11sparse.ipynb  
+ch12ensemble.ipynb  
+ch13gaussprocess.ipynb  
+ch14densityratio.ipynb  
+chAppendix.ipynb  
 
 
 - 本書で作成する pythonコード
