@@ -20,10 +20,9 @@ class EMmixBernoulli:
     """
     
     def __init__(self, K=5, maxitr=1000, tol=1e-5, succ=3):
-        self.K = K
-        self.maxitr = maxitr
-        self.tol = tol
-        self.succ = succ
+        self.K = K                        # コンポーネント数
+        self.maxitr = maxitr              # EMアルゴリズムの最大反復数
+        self.tol = tol; self.succ = succ  # 収束判定パラメータ
         
     def fit(self, x):
         """
