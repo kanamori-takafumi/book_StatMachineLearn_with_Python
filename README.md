@@ -5,7 +5,7 @@
 ## ファイル構成
 
 ファイル：
-- jupyter-notebook で利用する各章のコード    
+- jupyter-notebook で利用する各章のコード   
 ch01intro.ipynb  
 ch02prob.ipynb  
 ch04eval.ipynb  
@@ -47,8 +47,8 @@ data/lenna.png
 data/pepper512.bmp  
 data/pepper512.bmp  
 data/child.jpg  
-
-解説は本書籍をご覧ください．
+  
+解説は本書籍をご覧ください．  
 
 
 ## 必要条件
@@ -73,11 +73,6 @@ $ jupyter-notebook
 jupyter-notebook用のコード(ch01intro.ipynbなど)をダブルクリックして実行します．
 
 
-## 正誤表
-
-本書の正誤情報は以下のページで公開しています。
-
-https://********
-
+## 連絡先
 本ページに掲載されていない誤植など間違いを見つけた方は、
 [*****オーム社宛メール](<mailto:オーム社宛メール>)までお知らせください。
