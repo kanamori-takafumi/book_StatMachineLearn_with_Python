@@ -45,8 +45,6 @@ data/boat.png
 data/goldhill.png  
 data/lenna.png  
 data/pepper512.bmp  
-data/pepper512.bmp  
-data/child.jpg  
   
 解説は本書籍をご覧ください．  
 
