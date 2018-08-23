@@ -74,5 +74,5 @@ class EMmixBernoulli:
         newx のクラスタリング
         """
         cp = self.predict_proba(newx)    # 条件付き確率の計算
-        cl = np.argmax(cp,axis=1)
+        cl = np.argmax(cp,axis=1)        # クラスタ予測
         return cl
