@@ -73,12 +73,6 @@ $ jupyter-notebook
 jupyter-notebook用のコード(ch01intro.ipynbなど)をダブルクリックして実行します．
 
 
-## ライセンス
-
-本リポジトリのソースコードは[MITライセンス](http://www.opensource.org/licenses/MIT)です。
-商用・非商用問わず、自由にご利用ください。
-
-
 ## 正誤表
 
 本書の正誤情報は以下のページで公開しています。
