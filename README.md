@@ -72,4 +72,4 @@ jupyter-notebook用のコード(ch01intro.ipynbなど)をダブルクリック�
 
 
 ## その他
-誤植など間違いを見つけた方は、[オーム社宛メール](<mailto:shoseki@ohmsha.co.jp>)までお知らせください。
+誤植など間違いを見つけた方は shoseki@ohmsha.co.jp までお知らせください。
